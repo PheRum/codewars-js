@@ -1,0 +1,32 @@
+{
+    "name": "codewars",
+    "description": "Codewars solutions in js",
+    "keywords": [
+        "codewars"
+    ],
+    "author": "pherum",
+    "license": "ISC",
+    "homepage": "https://github.com/PheRum/codewars-js#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PheRum/codewars-js.git"
+    },
+    "main": "index.js",
+    "scripts": {
+        "test": "karma start karma.conf.js",
+        "lint": "eslint \"./*kyu/**/*.js\"",
+        "lint:fix": "eslint --fix \"./*kyu/**/*.js\""
+    },
+    "dependencies": {
+        "jasmine": "^5.1.0"
+    },
+    "devDependencies": {
+        "babel-eslint": "^10.0.3",
+        "babel-loader": "^8.1.0",
+        "eslint": "^5.16.0",
+        "eslint-plugin-import": "^2.18.2",
+        "karma": "^6.4.2",
+        "karma-chrome-launcher": "^3.2.0",
+        "karma-jasmine": "^5.1.0"
+    }
+}
