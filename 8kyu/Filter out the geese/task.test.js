@@ -1,5 +1,5 @@
-describe('Basic tests', function () {
-    it('Mixed list', function () {
+describe('Tests', function () {
+    it('gooseFilter', function () {
         expect(gooseFilter(['Mallard', 'Hook Bill', 'African', 'Crested', 'Pilgrim', 'Toulouse', 'Blue Swedish'])).
         toEqual(['Mallard', 'Hook Bill', 'Crested', 'Blue Swedish']);
     });
