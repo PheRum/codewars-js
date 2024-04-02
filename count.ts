@@ -61,7 +61,11 @@ function getFileString(filePath: string): string {
  * @param filesObj An object, where keys are subfolders
  */
 function refreshFilesCount(str: string, filesObj: FilesObject): string {
-    const re = (value: string) => new RegExp(`(?<=${value}.+: )\\d+`, "g");
+    const re = (value: string) => {
+        const regex = `(?<=${value}.+: )\\d+`;
+
+        return new RegExp(regex, "g");
+    };
 
     for (let path in filesObj) {
         str = str.replace(re(path), () => filesObj[path].toString());
