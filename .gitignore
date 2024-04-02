@@ -1,7 +1,6 @@
 .idea/
 .vscode/
 .fleet/
-*.zip
-/yarn.lock
 /node_modules/
 /dist/
+/coverage/
