@@ -29,7 +29,7 @@ interface FilesObject {
 function getFilesObj(folders: string[]): FilesObject {
     return folders.reduce((obj, path) => {
         const innerFolders = getFolders(path);
-        obj[path] = innerFolders.length;
+        obj[path] = innerFolders.filter(folder => !folder.includes('_example')).length;
         return obj;
     }, {} as FilesObject);
 }
