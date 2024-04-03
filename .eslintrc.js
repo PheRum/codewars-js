@@ -31,6 +31,7 @@ module.exports = {
         'indent': [
             'warn', 4, {
                 MemberExpression: 'off',
+                SwitchCase: 1,
             },
         ],
 
@@ -64,4 +65,4 @@ module.exports = {
         'no-this-before-super': 'warn',
         'no-var': 'warn',
     },
-};
+}
