@@ -5,11 +5,9 @@ export function updateLight(current: string) {
         case "green":
             color = "yellow";
             break;
-
         case "yellow":
             color = "red";
             break;
-
         case "red":
             color = "green";
             break;
