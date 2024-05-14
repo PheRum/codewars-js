@@ -2,8 +2,8 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 bash << EOF
-bun run count
+npm run count
 git add README.md
 EOF
 
-bun run lint:fix
+npx lint-staged
