@@ -6,11 +6,11 @@ Write a function that takes an array of numbers and returns the sum of the numbe
 does not contain any numbers then you should return 0.
 
 Examples
-*Input*: `[1, 5.2, 4, 0, -1]`
-*Output*: `9.2`
+_Input_: `[1, 5.2, 4, 0, -1]`
+_Output_: `9.2`
 
-*Input*: `[]`
-*Output*: `0`
+_Input_: `[]`
+_Output_: `0`
 
-*Input*: `[-2.398]`
-*Output*: `-2.398`
+_Input_: `[-2.398]`
+_Output_: `-2.398`

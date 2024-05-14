@@ -6,6 +6,7 @@ The function should take three arguments - operation(string/char), value1(number
 The function should return result of numbers after applying the chosen operation.
 
 **Examples(Operator, value1, value2) --> output**
+
 ```bash
 ('+', 4, 7) --> 11
 ('-', 15, 18) --> -3
