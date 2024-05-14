@@ -6,7 +6,6 @@ Create a method to see whether the string is ALL CAPS.
 
 **Examples (input -> output)**
 
-
 ```
 "c" -> False
 "C" -> True
