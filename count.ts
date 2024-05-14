@@ -1,4 +1,4 @@
-import * as fs from "fs";
+import * as fs from 'fs';
 
 /**
  * Returns an array of file names in the root directory.
@@ -52,7 +52,7 @@ function getTotalFiles(filesObj: FilesObject) {
  * @param filePath
  */
 function getFileString(filePath: string): string {
-    return fs.readFileSync(filePath, {encoding: "utf8"});
+    return fs.readFileSync(filePath, { encoding: 'utf8' });
 }
 
 /**
@@ -64,14 +64,14 @@ function refreshFilesCount(str: string, filesObj: FilesObject): string {
     const re = (value: string) => {
         const regex = `(?<=${value}.+: )\\d+`;
 
-        return new RegExp(regex, "g");
+        return new RegExp(regex, 'g');
     };
 
     for (let path in filesObj) {
         str = str.replace(re(path), () => filesObj[path].toString());
     }
 
-    str = str.replace(re("Total"), () => getTotalFiles(filesObj).toString());
+    str = str.replace(re('Total'), () => getTotalFiles(filesObj).toString());
 
     return str;
 }
@@ -86,12 +86,12 @@ function writeFileString(filePath: string, str: string): void {
 }
 
 function main(): void {
-    const folders = getFolders("./");
-    const filteredFolders = filterFolders(folders, "kyu");
+    const folders = getFolders('./');
+    const filteredFolders = filterFolders(folders, 'kyu');
     const filesObj = getFilesObj(filteredFolders);
-    const oldReadme = getFileString("./README.md");
+    const oldReadme = getFileString('./README.md');
     const newReadme = refreshFilesCount(oldReadme, filesObj);
-    writeFileString("./README.md", newReadme);
+    writeFileString('./README.md', newReadme);
 }
 
 main();

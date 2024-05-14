@@ -1,4 +1,4 @@
-import { gooseFilter } from "./index";
+import {gooseFilter} from "./index";
 
 describe('Tests', function () {
     it('gooseFilter', function () {
