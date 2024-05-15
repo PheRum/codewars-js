@@ -8,10 +8,10 @@
 
 ### Katas solved
 
-`Total`: 25 \
+`Total`: 26 \
 `8_kyu`: 25 \
 `7_kyu`: 0 \
-`6_kyu`: 0 \
+`6_kyu`: 1 \
 `5_kyu`: 0 \
 `4_kyu`: 0 \
 `3_kyu`: 0 \
