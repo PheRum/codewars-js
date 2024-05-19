@@ -1,15 +1,9 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c2464e2e2cf54c8b948c386bec14aab7)](https://app.codacy.com/gh/PheRum/codewars-js/dashboard)
-[![Test workflow](https://github.com/PheRum/codewars-js/actions/workflows/tests.yaml/badge.svg)](https://github.com/PheRum/codewars-js/actions/workflows/tests.yaml)
-![GitHub repo size](https://img.shields.io/github/repo-size/PheRum/codewars-js)
-
----
-
 ![Codewars](https://www.codewars.com/users/PheRum/badges/large)
 
 ### Katas solved
 
-`Total`: 41 \
-`8_kyu`: 39 \
+`Total`: 42 \
+`8_kyu`: 40 \
 `7_kyu`: 0 \
 `6_kyu`: 2 \
 `5_kyu`: 0 \
