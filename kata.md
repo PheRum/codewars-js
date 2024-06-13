@@ -58,7 +58,6 @@
 8 kyu - Total amount of points - https://www.codewars.com/kata/5bb904724c47249b10000131
 8 kyu - Calculate average - https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
 8 kyu - Reversed sequence - https://www.codewars.com/kata/5a00e05cc374cb34d100000d
-7 kyu - Ones and Zeros - https://www.codewars.com/kata/578553c3a1b8d5c40300037c
 8 kyu - Grasshopper - Messi goals function - https://www.codewars.com/kata/55f73be6e12baaa5900000d4
 7 kyu - Interlocking Binary Pairs - https://www.codewars.com/kata/628e3ee2e1daf90030239e8a
 7 kyu - Cats and shelves - https://www.codewars.com/kata/62c93765cef6f10030dfa92b
