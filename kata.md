@@ -1,27 +1,3 @@
-8 kyu - Contamination #1 -String- - https://www.codewars.com/kata/596fba44963025c878000039
-8 kyu - Grasshopper - Terminal game combat function - https://www.codewars.com/kata/586c1cf4b98de0399300001d
-8 kyu - Implement Array.prototype.filter() - https://www.codewars.com/kata/56dd9b84fe5754786f0014f7
-8 kyu - Logical calculator - https://www.codewars.com/kata/57096af70dad013aa200007b
-8 kyu - Enumerable Magic #20 - Cascading Subsets - https://www.codewars.com/kata/545af3d185166a3dec001190
-8 kyu - Enumerable Magic #1 - True for All? - https://www.codewars.com/kata/54598d1fcbae2ae05200112c
-8 kyu - Take an Arrow to the knee, Functionally - https://www.codewars.com/kata/559f3123e66a7204f000009f
-8 kyu - UEFA EURO 2016 - https://www.codewars.com/kata/57613fb1033d766171000d60
-8 kyu - A wolf in sheep's clothing - https://www.codewars.com/kata/5c8bfa44b9d1192e1ebd3d15
-8 kyu - Well of Ideas - Easy Version - https://www.codewars.com/kata/57f222ce69e09c3630000212
-8 kyu - Sort My Textbooks - https://www.codewars.com/kata/5a07e5b7ffe75fd049000051
-8 kyu - Returning Strings - https://www.codewars.com/kata/55a70521798b14d4750000a4
-8 kyu - Count by X - https://www.codewars.com/kata/5513795bd3fafb56c200049e
-8 kyu - Merge two sorted arrays into one - https://www.codewars.com/kata/5899642f6e1b25935d000161
-8 kyu - Sum Mixed Array - https://www.codewars.com/kata/57eaeb9578748ff92a000009
-8 kyu - Basic Training: Add item to an Array - https://www.codewars.com/kata/511f0fe64ae8683297000001
-8 kyu - Sort and Star - https://www.codewars.com/kata/57cfdf34902f6ba3d300001e
-8 kyu - Merging sorted integer arrays (without duplicates) - https://www.codewars.com/kata/573f5c61e7752709df0005d2
-8 kyu - Grasshopper - Array Mean - https://www.codewars.com/kata/55d277882e139d0b6000005d
-8 kyu - Find the first non-consecutive number - https://www.codewars.com/kata/58f8a3a27a5c28d92e000144
-8 kyu - Printing Array elements with Comma delimiters - https://www.codewars.com/kata/56e2f59fb2ed128081001328
-8 kyu - No Loops 2 - You only need one - https://www.codewars.com/kata/57cc40b2f8392dbf2a0003ce
-8 kyu - Gravity Flip - https://www.codewars.com/kata/5f70c883e10f9e0001c89673
-8 kyu - Unfinished Loop - Bug Fixing #1 - https://www.codewars.com/kata/55c28f7304e3eaebef0000da
 8 kyu - Beginner - Lost Without a Map - https://www.codewars.com/kata/57f781872e3d8ca2a000007e
 8 kyu - Sum of differences in array - https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e
 8 kyu - Duck Duck Goose - https://www.codewars.com/kata/582e0e592029ea10530009ce
