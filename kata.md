@@ -59,8 +59,6 @@
 8 kyu - Calculate average - https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
 8 kyu - Reversed sequence - https://www.codewars.com/kata/5a00e05cc374cb34d100000d
 8 kyu - Grasshopper - Messi goals function - https://www.codewars.com/kata/55f73be6e12baaa5900000d4
-7 kyu - Interlocking Binary Pairs - https://www.codewars.com/kata/628e3ee2e1daf90030239e8a
-7 kyu - Cats and shelves - https://www.codewars.com/kata/62c93765cef6f10030dfa92b
 7 kyu - Descending Order - https://www.codewars.com/kata/5467e4d82edf8bbf40000155
 8 kyu - Basic Mathematical Operations - https://www.codewars.com/kata/57356c55867b9b7a60000bd7
 8 kyu - Grasshopper - Terminal game move function - https://www.codewars.com/kata/563a631f7cbbc236cf0000c2
