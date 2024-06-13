@@ -63,7 +63,6 @@
 8 kyu - Grasshopper - Terminal game move function - https://www.codewars.com/kata/563a631f7cbbc236cf0000c2
 8 kyu - Convert a Boolean to a String - https://www.codewars.com/kata/551b4501ac0447318f0009cd
 8 kyu - Reversed Words - https://www.codewars.com/kata/51c8991dee245d7ddf00000e
-7 kyu - Mumbling - https://www.codewars.com/kata/5667e8f4e3f572a8f2000039
 8 kyu - How good are you really? - https://www.codewars.com/kata/5601409514fc93442500010b
 8 kyu - Simple multiplication - https://www.codewars.com/kata/583710ccaa6717322c000105
 8 kyu - You Can't Code Under Pressure #1 - https://www.codewars.com/kata/53ee5429ba190077850011d4
