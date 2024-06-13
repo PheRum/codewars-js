@@ -52,7 +52,6 @@
 8 kyu - Convert a string to an array - https://www.codewars.com/kata/57e76bc428d6fbc2d500036d
 8 kyu - Fake Binary - https://www.codewars.com/kata/57eae65a4321032ce000002d
 8 kyu - Calculate BMI - https://www.codewars.com/kata/57a429e253ba3381850000fb
-7 kyu - Vowel Count - https://www.codewars.com/kata/54ff3102c1bad923760001f3
 8 kyu - All Star Code Challenge #18 - https://www.codewars.com/kata/5865918c6b569962950002a1
 8 kyu - Sentence Smash - https://www.codewars.com/kata/53dc23c68a0c93699800041d
 7 kyu - Disemvowel Trolls - https://www.codewars.com/kata/52fba66badcd10859f00097e
