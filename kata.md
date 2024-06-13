@@ -69,7 +69,6 @@
 8 kyu - Return Negative - https://www.codewars.com/kata/55685cd7ad70877c23000102
 8 kyu - Convert a String to a Number! - https://www.codewars.com/kata/544675c6f971f7399a000e79
 8 kyu - CSV representation of array - https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036
-7 kyu - MinMaxMin: Bounded Nums - https://www.codewars.com/kata/58d3487a643a3f6aa20000ff
 8 kyu - Reversed Strings - https://www.codewars.com/kata/5168bb5dfe9a00b126000018
 8 kyu - String repeat - https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 8 kyu - Remove exclamation marks - https://www.codewars.com/kata/57a0885cbb9944e24c00008e
