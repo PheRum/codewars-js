@@ -57,7 +57,6 @@
 8 kyu - Array plus array - https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
 8 kyu - Total amount of points - https://www.codewars.com/kata/5bb904724c47249b10000131
 8 kyu - Calculate average - https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
-7 kyu - Keypad horror - https://www.codewars.com/kata/5572392fee5b0180480001ae
 8 kyu - Reversed sequence - https://www.codewars.com/kata/5a00e05cc374cb34d100000d
 7 kyu - Count consonants - https://www.codewars.com/kata/564e7fc20f0b53eb02000106
 7 kyu - Ones and Zeros - https://www.codewars.com/kata/578553c3a1b8d5c40300037c
