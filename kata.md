@@ -1,4 +1,3 @@
-8 kyu - Abbreviate a Two Word Name - https://www.codewars.com/kata/57eadb7ecd143f4c9c0000a3
 8 kyu - Multiply the number - https://www.codewars.com/kata/5708f682c69b48047b000e07
 8 kyu - Find out whether the shape is a cube - https://www.codewars.com/kata/58d248c7012397a81800005c
 8 kyu - Grasshopper - Summation - https://www.codewars.com/kata/55d24f55d7dd296eb9000030
@@ -85,4 +84,3 @@
 8 kyu - Invert values - https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad
 8 kyu - Filter out the geese - https://www.codewars.com/kata/57ee4a67108d3fd9eb0000e7
 8 kyu - Beginner - Reduce but Grow - https://www.codewars.com/kata/57f780909f7e8e3183000078
-8 kyu - Multiply - https://www.codewars.com/kata/50654ddff44f800200000004
