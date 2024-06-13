@@ -2,9 +2,9 @@
 
 ### Katas solved
 
-`Total`: 59 \
+`Total`: 60 \
 `8_kyu`: 51 \
-`7_kyu`: 4 \
+`7_kyu`: 5 \
 `6_kyu`: 4 \
 `5_kyu`: 0 \
 `4_kyu`: 0 \
