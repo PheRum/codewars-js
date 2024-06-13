@@ -2,10 +2,10 @@
 
 ### Katas solved
 
-`Total`: 53 \
+`Total`: 54 \
 `8_kyu`: 51 \
 `7_kyu`: 0 \
-`6_kyu`: 2 \
+`6_kyu`: 3 \
 `5_kyu`: 0 \
 `4_kyu`: 0 \
 `3_kyu`: 0 \
