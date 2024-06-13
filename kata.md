@@ -1,18 +1,3 @@
-8 kyu - Multiply the number - https://www.codewars.com/kata/5708f682c69b48047b000e07
-8 kyu - Find out whether the shape is a cube - https://www.codewars.com/kata/58d248c7012397a81800005c
-8 kyu - Grasshopper - Summation - https://www.codewars.com/kata/55d24f55d7dd296eb9000030
-8 kyu - The Feast of Many Beasts - https://www.codewars.com/kata/5aa736a455f906981800360d
-8 kyu - Is the string uppercase? - https://www.codewars.com/kata/56cd44e1aa4ac7879200010b
-8 kyu - Powers of 2 - https://www.codewars.com/kata/57a083a57cb1f31db7000028
-8 kyu - Convert a Number to a String! - https://www.codewars.com/kata/5265326f5fda8eb1160004c8
-8 kyu - Tip Calculator - https://www.codewars.com/kata/56598d8076ee7a0759000087
-8 kyu - Rock Paper Scissors! - https://www.codewars.com/kata/5672a98bdbdd995fad00000f
-8 kyu - isReallyNaN - https://www.codewars.com/kata/56c24c58e0c0f741d4001aef
-8 kyu - Sum without highest and lowest number - https://www.codewars.com/kata/576b93db1129fcf2200001e6
-8 kyu - Correct the mistakes of the character recognition software - https://www.codewars.com/kata/577bd026df78c19bca0002c0
-8 kyu - Formatting decimal places #0 - https://www.codewars.com/kata/5641a03210e973055a00000d
-8 kyu - Remove the time - https://www.codewars.com/kata/56b0ff16d4aa33e5bb00008e
-8 kyu - Grasshopper - Combine strings - https://www.codewars.com/kata/55f73f66d160f1f1db000059
 8 kyu - Contamination #1 -String- - https://www.codewars.com/kata/596fba44963025c878000039
 8 kyu - Grasshopper - Terminal game combat function - https://www.codewars.com/kata/586c1cf4b98de0399300001d
 8 kyu - Implement Array.prototype.filter() - https://www.codewars.com/kata/56dd9b84fe5754786f0014f7
