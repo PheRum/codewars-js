@@ -41,18 +41,15 @@
 8 kyu - Beginner - Lost Without a Map - https://www.codewars.com/kata/57f781872e3d8ca2a000007e
 8 kyu - Sum of differences in array - https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e
 8 kyu - Duck Duck Goose - https://www.codewars.com/kata/582e0e592029ea10530009ce
-7 kyu - Isograms - https://www.codewars.com/kata/54ba84be607a92aa900000f1
 8 kyu - You only need one - Beginner - https://www.codewars.com/kata/57cc975ed542d3148f00015b
 8 kyu - pick a set of first elements - https://www.codewars.com/kata/572b77262bedd351e9000076
 8 kyu - Count the Monkeys! - https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 8 kyu - Count of positives / sum of negatives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044
 8 kyu - Removing Elements - https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
 8 kyu - Remove First and Last Character Part Two - https://www.codewars.com/kata/570597e258b58f6edc00230d
-6 kyu - Unique In Order - https://www.codewars.com/kata/54e6533c92449cc251001667
 8 kyu - Remove duplicates from list - https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118
 8 kyu - A Needle in the Haystack - https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
 8 kyu - Convert a string to an array - https://www.codewars.com/kata/57e76bc428d6fbc2d500036d
-6 kyu - Count characters in your string - https://www.codewars.com/kata/52efefcbcdf57161d4000091
 8 kyu - Fake Binary - https://www.codewars.com/kata/57eae65a4321032ce000002d
 7 kyu - List Filtering - https://www.codewars.com/kata/53dbd5315a3c69eed20002dd
 8 kyu - Calculate BMI - https://www.codewars.com/kata/57a429e253ba3381850000fb
