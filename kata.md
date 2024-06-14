@@ -1,4 +1,3 @@
-8 kyu - pick a set of first elements - https://www.codewars.com/kata/572b77262bedd351e9000076
 8 kyu - Count the Monkeys! - https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 8 kyu - Removing Elements - https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
 8 kyu - Remove duplicates from list - https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118
