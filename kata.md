@@ -3,7 +3,6 @@
 8 kyu - Count the Monkeys! - https://www.codewars.com/kata/56f69d9f9400f508fb000ba7
 8 kyu - Count of positives / sum of negatives - https://www.codewars.com/kata/576bb71bbbcf0951d5000044
 8 kyu - Removing Elements - https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
-8 kyu - Remove First and Last Character Part Two - https://www.codewars.com/kata/570597e258b58f6edc00230d
 8 kyu - Remove duplicates from list - https://www.codewars.com/kata/57a5b0dfcf1fa526bb000118
 8 kyu - A Needle in the Haystack - https://www.codewars.com/kata/56676e8fabd2d1ff3000000c
 8 kyu - Convert a string to an array - https://www.codewars.com/kata/57e76bc428d6fbc2d500036d
