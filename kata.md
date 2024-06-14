@@ -1,4 +1,3 @@
-8 kyu - Beginner - Lost Without a Map - https://www.codewars.com/kata/57f781872e3d8ca2a000007e
 8 kyu - Sum of differences in array - https://www.codewars.com/kata/5b73fe9fb3d9776fbf00009e
 8 kyu - Duck Duck Goose - https://www.codewars.com/kata/582e0e592029ea10530009ce
 8 kyu - You only need one - Beginner - https://www.codewars.com/kata/57cc975ed542d3148f00015b

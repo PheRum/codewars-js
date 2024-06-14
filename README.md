@@ -2,8 +2,8 @@
 
 ### Katas solved
 
-`Total`: 72 \
-`8_kyu`: 55 \
+`Total`: 73 \
+`8_kyu`: 56 \
 `7_kyu`: 13 \
 `6_kyu`: 4 \
 `5_kyu`: 0 \
