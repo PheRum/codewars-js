@@ -1,4 +1,3 @@
-8 kyu - All Star Code Challenge #18 - https://www.codewars.com/kata/5865918c6b569962950002a1
 8 kyu - Sentence Smash - https://www.codewars.com/kata/53dc23c68a0c93699800041d
 8 kyu - Array plus array - https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
 8 kyu - Total amount of points - https://www.codewars.com/kata/5bb904724c47249b10000131
