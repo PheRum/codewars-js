@@ -1,5 +1,3 @@
-8 kyu - Sentence Smash - https://www.codewars.com/kata/53dc23c68a0c93699800041d
-8 kyu - Array plus array - https://www.codewars.com/kata/5a2be17aee1aaefe2a000151
 8 kyu - Total amount of points - https://www.codewars.com/kata/5bb904724c47249b10000131
 8 kyu - Calculate average - https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
 8 kyu - Reversed sequence - https://www.codewars.com/kata/5a00e05cc374cb34d100000d
