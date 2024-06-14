@@ -1,4 +1,3 @@
-8 kyu - Total amount of points - https://www.codewars.com/kata/5bb904724c47249b10000131
 8 kyu - Calculate average - https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
 8 kyu - Reversed sequence - https://www.codewars.com/kata/5a00e05cc374cb34d100000d
 8 kyu - Convert a Boolean to a String - https://www.codewars.com/kata/551b4501ac0447318f0009cd
