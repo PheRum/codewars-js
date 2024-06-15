@@ -1,4 +1,3 @@
-8 kyu - Simple multiplication - https://www.codewars.com/kata/583710ccaa6717322c000105
 8 kyu - Convert a String to a Number! - https://www.codewars.com/kata/544675c6f971f7399a000e79
 8 kyu - CSV representation of array - https://www.codewars.com/kata/5a34af40e1ce0eb1f5000036
 8 kyu - Reversed Strings - https://www.codewars.com/kata/5168bb5dfe9a00b126000018
