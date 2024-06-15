@@ -1,4 +1,4 @@
-import { countBits } from "../../7_kyu/_example";
+import { countBits } from "./index";
 
 describe("Tests", () => {
     it("example", () => {
