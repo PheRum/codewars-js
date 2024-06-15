@@ -1,4 +1,3 @@
-8 kyu - String repeat - https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 8 kyu - Remove exclamation marks - https://www.codewars.com/kata/57a0885cbb9944e24c00008e
 8 kyu - Counting sheep... - https://www.codewars.com/kata/54edbc7200b811e956000556
 8 kyu - Even or Odd - https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
