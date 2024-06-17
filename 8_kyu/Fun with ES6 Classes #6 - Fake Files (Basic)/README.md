@@ -1,0 +1,7 @@
+## Fun with ES6 Classes #6 - Fake Files (Basic)
+
+https://www.codewars.com/kata/5784c8116211383b5f0001d3
+
+Fun with ES6 Classes #6 - Fake Files (Basic)
+Kata and Series Overview
+In Kata #1-4 in this series, we learned the fundamentals and features of ES6 classes including ES6 class syntax, classical inheritance in ES6 (as opposed to prototypal inheritance in all previous versions of ECMAScript/Javascript), getters and setters. In Kata #5 of this Series we began to apply our knowledge of ES6 classes to solve the challenge, but the challenge was still a bit Codecademy-like (traning level code) and did not resemble a real world application. Therefore, in this Kata of the series, we are going to apply our knowledge of ES6 class syntax and features in a semi-real world application.
