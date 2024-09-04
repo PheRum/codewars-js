@@ -7,7 +7,7 @@ Write a function to get the first element(s) of a sequence. Passing a parameter 
 If n == 0 return an empty sequence []
 
 ```js
-var arr = ["a", "b", "c", "d", "e"];
+var arr = ['a', 'b', 'c', 'd', 'e'];
 first(arr); //=> ['a'];
 first(arr, 2); //=> ['a', 'b']
 first(arr, 3); //=> ['a', 'b', 'c'];
