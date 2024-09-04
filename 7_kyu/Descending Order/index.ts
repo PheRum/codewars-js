@@ -1,8 +1,8 @@
 export function descendingOrder(n: number): number {
     const numbers = String(n)
-        .split("")
+        .split('')
         .map((n) => +n)
         .sort((a, b) => b - a);
 
-    return parseInt(numbers.join(""));
+    return parseInt(numbers.join(''));
 }

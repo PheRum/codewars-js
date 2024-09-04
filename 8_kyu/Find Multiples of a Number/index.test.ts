@@ -1,7 +1,7 @@
-import { findMultiples } from "./index";
+import { findMultiples } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
+describe('Tests', () => {
+    it('example', () => {
         expect(findMultiples(5, 25)).toEqual([5, 10, 15, 20, 25]);
         expect(findMultiples(1, 2)).toEqual([1, 2]);
         expect(findMultiples(5, 7)).toEqual([5]);

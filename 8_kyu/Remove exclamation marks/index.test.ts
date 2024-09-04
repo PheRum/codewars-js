@@ -1,7 +1,7 @@
-import { removeExclamationMarks } from "./index";
+import { removeExclamationMarks } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
-        expect(removeExclamationMarks("Hello World!")).toBe("Hello World");
+describe('Tests', () => {
+    it('example', () => {
+        expect(removeExclamationMarks('Hello World!')).toBe('Hello World');
     });
 });

@@ -1,0 +1,108 @@
+{
+    "extends": ["prettier"],
+    "parser": "@typescript-eslint/parser",
+    "plugins": ["@typescript-eslint", "prettier"],
+    "parserOptions": {
+        "ecmaVersion": "latest",
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        "@typescript-eslint/member-ordering": [
+            "warn",
+            {
+                "default": [
+                    "private-static-field",
+                    "protected-static-field",
+                    "public-static-field",
+                    "private-static-method",
+                    "protected-static-method",
+                    "public-static-method",
+                    "private-instance-field",
+                    "protected-instance-field",
+                    "public-instance-field",
+                    "private-constructor",
+                    "protected-constructor",
+                    "public-constructor",
+                    "private-instance-method",
+                    "protected-instance-method",
+                    "public-instance-method"
+                ]
+            }
+        ],
+        "array-bracket-newline": [
+            "warn",
+            {
+                "multiline": true
+            }
+        ],
+        "array-bracket-spacing": ["warn", "never"],
+        "arrow-body-style": ["warn", "as-needed"],
+        "block-spacing": ["warn", "always"],
+        "camelcase": [
+            "off",
+            {
+                "properties": "never"
+            }
+        ],
+        "comma-dangle": [
+            "warn",
+            {
+                "arrays": "only-multiline",
+                "objects": "only-multiline",
+                "imports": "only-multiline",
+                "exports": "only-multiline",
+                "functions": "only-multiline"
+            }
+        ],
+        "dot-notation": "warn",
+        "eol-last": ["warn", "always"],
+        "eqeqeq": ["error", "always"],
+        "indent": [
+            "warn",
+            4,
+            {
+                "SwitchCase": 1,
+                "ignoreComments": true
+            }
+        ],
+        "jsx-quotes": ["warn", "prefer-double"],
+        "linebreak-style": ["error", "unix"],
+        "no-console": "error",
+        "no-extra-semi": "error",
+        "no-multi-spaces": ["warn"],
+        "no-tabs": ["warn"],
+        "no-trailing-spaces": ["warn", { "ignoreComments": true }],
+        "no-unused-expressions": [
+            "warn",
+            {
+                "allowShortCircuit": true
+            }
+        ],
+        "prettier/prettier": [
+            "warn",
+            {
+                "usePrettierrc": true
+            }
+        ],
+        "quotes": [
+            "warn",
+            "single",
+            {
+                "avoidEscape": true
+            }
+        ],
+        "require-await": "error",
+        "semi": ["warn", "always"],
+        "use-isnan": [
+            "error",
+            {
+                "enforceForSwitchCase": true
+            }
+        ],
+        "valid-typeof": "warn",
+        "yoda": ["error", "never"]
+    }
+}

@@ -1,16 +1,16 @@
-import { isVow } from "./index";
+import { isVow } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
+describe('Tests', () => {
+    it('example', () => {
         expect(isVow([118, 117, 120, 121, 117, 98, 122, 97, 120, 106, 104, 116, 113, 114, 113, 120, 106])).toEqual([
             118,
-            "u",
+            'u',
             120,
             121,
-            "u",
+            'u',
             98,
             122,
-            "a",
+            'a',
             120,
             106,
             104,
@@ -22,7 +22,7 @@ describe("Tests", () => {
             106,
         ]);
         expect(isVow([101, 121, 110, 113, 113, 103, 121, 121, 101, 107, 103])).toEqual([
-            "e",
+            'e',
             121,
             110,
             113,
@@ -30,7 +30,7 @@ describe("Tests", () => {
             103,
             121,
             121,
-            "e",
+            'e',
             107,
             103,
         ]);

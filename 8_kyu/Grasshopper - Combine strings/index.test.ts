@@ -1,7 +1,7 @@
-import { combineNames } from "./index";
+import { combineNames } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
-        expect(combineNames("James", "Stevens")).toBe("James Stevens");
+describe('Tests', () => {
+    it('example', () => {
+        expect(combineNames('James', 'Stevens')).toBe('James Stevens');
     });
 });

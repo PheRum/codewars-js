@@ -1,7 +1,7 @@
-import { arrayPlusArray } from "./index";
+import { arrayPlusArray } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
+describe('Tests', () => {
+    it('example', () => {
         expect(arrayPlusArray([1, 2, 3], [4, 5, 6])).toBe(21);
         expect(arrayPlusArray([-1, -2, -3], [-4, -5, -6])).toBe(-21);
         expect(arrayPlusArray([0, 0, 0], [4, 5, 6])).toBe(15);

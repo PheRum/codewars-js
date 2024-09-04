@@ -1,7 +1,7 @@
-import { getCount } from "./index";
+import { getCount } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
-        expect(getCount("abracadabra")).toBe(5);
+describe('Tests', () => {
+    it('example', () => {
+        expect(getCount('abracadabra')).toBe(5);
     });
 });

@@ -2,6 +2,6 @@
 // eslint-disable-next-line no-var
 var websites: string[] = [];
 
-websites.push("codewars");
+websites.push('codewars');
 
 export { websites };

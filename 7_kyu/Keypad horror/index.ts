@@ -13,7 +13,7 @@ export function computerToPhone(numbers: string) {
     };
 
     return numbers
-        .split("")
+        .split('')
         .map((n) => map[+n])
-        .join("");
+        .join('');
 }

@@ -1,7 +1,7 @@
-import { multiply } from "./index";
+import { multiply } from './index';
 
-describe("Tests", () => {
-    it("multiply", () => {
+describe('Tests', () => {
+    it('multiply', () => {
         expect(multiply(1, 1)).toBe(1);
         expect(multiply(2, 3)).toBe(6);
         expect(multiply(3, 5)).toBe(15);

@@ -1,7 +1,7 @@
-import { invert } from "./index";
+import { invert } from './index';
 
-describe("Tests", () => {
-    it("invert", () => {
+describe('Tests', () => {
+    it('invert', () => {
         expect(invert([1, 2, 3, 4, 5])).toEqual([-1, -2, -3, -4, -5]);
         expect(invert([1, -2, 3, -4, 5])).toEqual([-1, 2, -3, 4, -5]);
         expect(invert([])).toEqual([]);

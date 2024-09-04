@@ -1,16 +1,16 @@
-import { findNeedle } from "./index";
+import { findNeedle } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
-        const haystack1 = ["3", "123124234", undefined, "needle", "world", "hay", 2, "3", true, false];
+describe('Tests', () => {
+    it('example', () => {
+        const haystack1 = ['3', '123124234', undefined, 'needle', 'world', 'hay', 2, '3', true, false];
         const haystack2 = [
-            "283497238987234",
-            "a dog",
-            "a cat",
-            "some random junk",
-            "a piece of hay",
-            "needle",
-            "something somebody lost a while ago",
+            '283497238987234',
+            'a dog',
+            'a cat',
+            'some random junk',
+            'a piece of hay',
+            'needle',
+            'something somebody lost a while ago',
         ];
         const haystack3 = [
             1,
@@ -43,7 +43,7 @@ describe("Tests", () => {
             234,
             324,
             324,
-            "needle",
+            'needle',
             1,
             2,
             3,
@@ -59,9 +59,9 @@ describe("Tests", () => {
             54,
         ];
 
-        expect(findNeedle(haystack1)).toBe("found the needle at position 3");
-        expect(findNeedle(haystack1)).toBe("found the needle at position 3");
-        expect(findNeedle(haystack2)).toBe("found the needle at position 5");
-        expect(findNeedle(haystack3)).toBe("found the needle at position 30");
+        expect(findNeedle(haystack1)).toBe('found the needle at position 3');
+        expect(findNeedle(haystack1)).toBe('found the needle at position 3');
+        expect(findNeedle(haystack2)).toBe('found the needle at position 5');
+        expect(findNeedle(haystack3)).toBe('found the needle at position 30');
     });
 });

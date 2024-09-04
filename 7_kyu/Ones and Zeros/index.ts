@@ -1,3 +1,3 @@
 export function binaryArrayToNumber(numbers: number[]): number {
-    return parseInt(numbers.join(""), 2);
+    return parseInt(numbers.join(''), 2);
 }

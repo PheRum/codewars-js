@@ -2,23 +2,23 @@ export function calculateTip(amount: number, rating: string): number {
     let percent = 0;
 
     switch (rating.toLowerCase()) {
-        case "terrible":
+        case 'terrible':
             percent = 0;
             break;
-        case "poor":
+        case 'poor':
             percent = 5;
             break;
-        case "good":
+        case 'good':
             percent = 10;
             break;
-        case "great":
+        case 'great':
             percent = 15;
             break;
-        case "excellent":
+        case 'excellent':
             percent = 20;
             break;
         default:
-            throw new Error("Rating not recognised");
+            throw new Error('Rating not recognised');
     }
 
     return Math.ceil((amount / 100) * percent);

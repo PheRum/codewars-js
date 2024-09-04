@@ -1,5 +1,5 @@
 export function count(string: string) {
-    const letters = string.split("");
+    const letters = string.split('');
     let output: { [key: string]: number } = {};
 
     letters.forEach((letter) => {

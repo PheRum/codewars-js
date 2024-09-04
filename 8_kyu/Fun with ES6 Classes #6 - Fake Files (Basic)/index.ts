@@ -5,10 +5,11 @@ class File {
     _readIndex: number;
     _charIndex: number;
 
+    // eslint-disable-next-line @typescript-eslint/member-ordering
     constructor(fullName: string, contents: string) {
         this._fullName = fullName;
         this._contents = contents;
-        this._readLines = contents.split("\n");
+        this._readLines = contents.split('\n');
         this._readIndex = 0;
         this._charIndex = 0;
     }
@@ -22,7 +23,7 @@ class File {
     }
 
     get filename(): string {
-        return this._fullName.split(".").slice(0, -1).join(".");
+        return this._fullName.split('.').slice(0, -1).join('.');
     }
 
     set filename(newName: string) {
@@ -30,7 +31,7 @@ class File {
     }
 
     get extension(): string {
-        const array = this._fullName.split(".");
+        const array = this._fullName.split('.');
         return array[array.length - 1];
     }
 
@@ -48,7 +49,7 @@ class File {
         } else {
             this._contents = data;
         }
-        this._readLines = this._contents.split("\n");
+        this._readLines = this._contents.split('\n');
     }
 
     gets(): string | undefined {

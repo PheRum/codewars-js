@@ -1,4 +1,4 @@
-import { countSheeps } from "./index";
+import { countSheeps } from './index';
 
 const array1 = [
     true,
@@ -27,8 +27,8 @@ const array1 = [
     true,
 ];
 
-describe("countSheeps", function () {
-    it("should work correctly", () => {
+describe('countSheeps', function () {
+    it('should work correctly', () => {
         const result1 = countSheeps(array1);
         expect(result1).toEqual(17);
     });

@@ -1,7 +1,7 @@
-import { cubeChecker } from "./index";
+import { cubeChecker } from './index';
 
-describe("Tests", () => {
-    it("cubeChecker", () => {
+describe('Tests', () => {
+    it('cubeChecker', () => {
         expect(cubeChecker(56.3, 1)).toBe(false);
         expect(cubeChecker(-1, 2)).toBe(false);
         expect(cubeChecker(8, 3)).toBe(false);

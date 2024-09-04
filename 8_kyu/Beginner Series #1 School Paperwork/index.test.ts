@@ -1,7 +1,7 @@
-import { paperwork } from "./index";
+import { paperwork } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
+describe('Tests', () => {
+    it('example', () => {
         expect(paperwork(5, 5)).toBe(25);
         expect(paperwork(5, -5)).toBe(0);
         expect(paperwork(-5, -5)).toBe(0);

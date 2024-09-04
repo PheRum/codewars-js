@@ -1,13 +1,13 @@
-type WellType = "good" | "bad";
+type WellType = 'good' | 'bad';
 
 export function well(x: WellType[]) {
-    const good = x.filter((n) => n === "good").length;
+    const good = x.filter((n) => n === 'good').length;
 
     if (good && good <= 2) {
-        return "Publish!";
+        return 'Publish!';
     }
     if (good > 2) {
-        return "I smell a series!";
+        return 'I smell a series!';
     }
-    return "Fail!";
+    return 'Fail!';
 }

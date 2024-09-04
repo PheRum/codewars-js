@@ -1,7 +1,7 @@
-import { persistence } from "./index";
+import { persistence } from './index';
 
-describe("Tests", () => {
-    it("persistence", () => {
+describe('Tests', () => {
+    it('persistence', () => {
         expect(persistence(39)).toBe(3);
         expect(persistence(4)).toBe(0);
         expect(persistence(25)).toBe(2);

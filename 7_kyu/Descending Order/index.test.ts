@@ -1,7 +1,7 @@
-import { descendingOrder } from "./index";
+import { descendingOrder } from './index';
 
-describe("Tests", () => {
-    it("Testing for fixed tests", () => {
+describe('Tests', () => {
+    it('Testing for fixed tests', () => {
         expect(descendingOrder(0)).toBe(0);
         expect(descendingOrder(1)).toBe(1);
         expect(descendingOrder(111)).toBe(111);

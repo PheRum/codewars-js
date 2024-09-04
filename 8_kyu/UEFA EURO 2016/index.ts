@@ -1,6 +1,6 @@
 export function uefaEuro2016(teams: string[], scores: number[]): string {
     const [scoreA, scoreB] = scores;
-    const teamsJoin = teams.join(" - ");
+    const teamsJoin = teams.join(' - ');
 
     if (scoreA > scoreB) {
         return `At match ${teamsJoin}, ${teams[0]} won!`;

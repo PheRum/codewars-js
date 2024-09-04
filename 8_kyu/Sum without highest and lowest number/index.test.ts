@@ -1,7 +1,7 @@
-import { sumArray } from "./index";
+import { sumArray } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
+describe('Tests', () => {
+    it('example', () => {
         expect(sumArray(null)).toBe(0);
         expect(sumArray([])).toBe(0);
         expect(sumArray([3])).toBe(0);

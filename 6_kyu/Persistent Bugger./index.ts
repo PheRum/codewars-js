@@ -3,7 +3,7 @@ export function persistence(num: number): number {
     while (num.toString().length !== 1) {
         num = num
             .toString()
-            .split("")
+            .split('')
             .map((l) => +l)
             .reduce((a, b) => a * b);
         i++;

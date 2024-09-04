@@ -19,6 +19,6 @@ jobs:
             uses: actions/setup-node@v3
             with:
                node-version: '22'
-         -  run: yarn install
+         -  run: yarn install --ignore-scripts
          -  run: yarn lint
          -  run: yarn test

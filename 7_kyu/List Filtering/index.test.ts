@@ -1,9 +1,9 @@
-import { filterList } from "./index";
+import { filterList } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
-        expect(filterList([1, 2, "a", "b"])).toEqual([1, 2]);
-        expect(filterList([1, "a", "b", 0, 15])).toEqual([1, 0, 15]);
-        expect(filterList([1, 2, "aasf", "1", "123", 123])).toEqual([1, 2, 123]);
+describe('Tests', () => {
+    it('example', () => {
+        expect(filterList([1, 2, 'a', 'b'])).toEqual([1, 2]);
+        expect(filterList([1, 'a', 'b', 0, 15])).toEqual([1, 0, 15]);
+        expect(filterList([1, 2, 'aasf', '1', '123', 123])).toEqual([1, 2, 123]);
     });
 });

@@ -1,7 +1,7 @@
-import { countBits } from "./index";
+import { countBits } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
+describe('Tests', () => {
+    it('example', () => {
         expect(countBits(1234)).toBe(5);
         expect(countBits(0)).toBe(0);
         expect(countBits(4)).toBe(1);

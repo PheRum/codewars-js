@@ -1,6 +1,6 @@
 export function digitize(n: number) {
     return String(n)
-        .split("")
+        .split('')
         .reverse()
         .map((num) => Number(num));
 }

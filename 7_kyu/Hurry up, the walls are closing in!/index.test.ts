@@ -1,13 +1,13 @@
-import { canEscape } from "./index";
+import { canEscape } from './index';
 
-describe("Tests", () => {
+describe('Tests', () => {
     function act(expected: boolean, walls: number[][]) {
         const userSol = canEscape(walls.map((t) => t.slice()));
         expect(expected).toBe(userSol);
     }
 
-    describe("Sample tests", () => {
-        it("Walk in the park", () => {
+    describe('Sample tests', () => {
+        it('Walk in the park', () => {
             act(true, [
                 [7, 7],
                 [7, 7],
@@ -16,7 +16,7 @@ describe("Tests", () => {
             ]);
         });
 
-        it("Close call", () => {
+        it('Close call', () => {
             act(true, [
                 [2, 2],
                 [3, 3],
@@ -24,7 +24,7 @@ describe("Tests", () => {
             ]);
         });
 
-        it("Another close escape", () => {
+        it('Another close escape', () => {
             act(true, [
                 [2, 8],
                 [7, 3],
@@ -40,7 +40,7 @@ describe("Tests", () => {
             ]);
         });
 
-        it("We stand no chance", () => {
+        it('We stand no chance', () => {
             act(false, [
                 [3, 3],
                 [1, 1],
@@ -48,7 +48,7 @@ describe("Tests", () => {
             ]);
         });
 
-        it("Walls have already closed", () => {
+        it('Walls have already closed', () => {
             act(false, [
                 [7, 7],
                 [0, 0],

@@ -1,8 +1,4 @@
-export function alternate(
-    n: number,
-    firstValue: string | boolean,
-    secondValue: string | boolean
-): (string | boolean)[] {
+export function alternate(n: number, firstValue: string | boolean, secondValue: string | boolean): (string | boolean)[] {
     let result: any = [];
 
     if (n === 0) {

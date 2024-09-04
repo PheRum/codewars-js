@@ -1,7 +1,7 @@
-import { simpleMultiplication } from "./index";
+import { simpleMultiplication } from './index';
 
-describe("Tests", () => {
-    it("example", () => {
+describe('Tests', () => {
+    it('example', () => {
         expect(simpleMultiplication(2)).toBe(16);
         expect(simpleMultiplication(1)).toBe(9);
         expect(simpleMultiplication(8)).toBe(64);
